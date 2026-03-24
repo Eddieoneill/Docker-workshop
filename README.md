@@ -10,7 +10,8 @@ This app will populate react ui using vite, api using exoress, and database usin
 ```docker
 docker-compose up
 ```
-- This should populate your whole app(the app will automatically do migration on knex and seed the db)
+This should populate your whole app(the app will automatically do migration on knex and seed the db)
+
 
 - When you want to stop the app, simplly run
 ```docker
