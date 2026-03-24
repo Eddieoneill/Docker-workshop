@@ -10,8 +10,8 @@ This app will populate react ui using vite, api using exoress, and database usin
 ```docker
 docker-compose up
 ```
-Now check localhost:3000 for the ui and localhost:8000 for the api \n
-This should populate your whole app(the app will automatically do migration on knex and seed the db)
+Now check localhost:3000 for the ui and localhost:8000 for the api.
+This should populate your whole app(the app will automatically do migration on knex and seed the db).
 
 
 - When you want to stop the app, simplly run
