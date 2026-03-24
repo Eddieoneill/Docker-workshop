@@ -14,7 +14,7 @@ app.use(cors());
 app.use("/cards", cardsRoutes);
 
 app.get("/", (req, res) => {
-  res.status(200).send({ message: "Your API is working" });
+  res.status(200).send({ message: "My API is up and running Yo!" });
 });
 
 app.listen(port, () => {
