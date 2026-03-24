@@ -18,3 +18,7 @@ This should populate your whole app(the app will automatically do migration on k
 ```docker
 docker-compose down
 ```
+
+
+![ezgif com-optimize](https://github.com/user-attachments/assets/19f0a220-3e15-45aa-90da-a22939bcc549)
+
