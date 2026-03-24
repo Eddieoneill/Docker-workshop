@@ -22,5 +22,5 @@ docker-compose down
 
 
 
-![ezgif com-optimize](https://github.com/user-attachments/assets/dd40afcb-c87b-4faa-afda-cf1a941d43f8)
+https://github.com/user-attachments/assets/dd40afcb-c87b-4faa-afda-cf1a941d43f8
 
