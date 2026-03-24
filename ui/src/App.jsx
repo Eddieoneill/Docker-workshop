@@ -16,6 +16,7 @@ function App() {
   console.log(backCardImage);
   return (
     <>
+      <h1>Welcome to my Docker Workshop App!</h1>
       <img src={backCardImage} alt="backCard" />
     </>
   );
